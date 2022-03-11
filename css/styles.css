@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    margin-top: 42vh;
+    background-color: black;
+
+}
+
+h1 {
+
+    color: #fff;
+    text-align: center;
+
+}
+
+input {
+
+    display: block;
+    margin: auto;
+    color: #0f0;
+    background-color: #aaa;
+    font-family: 'Comic Sans Ms';
+    border: 8px groove #888;
+    width: 800px;
+    height: 20px;
+
+}
+
+input::selection {
+
+    background-color: black;
+
+}
