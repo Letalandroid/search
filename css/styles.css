@@ -25,6 +25,7 @@ input {
     background-color: #000;
     font-family: 'Comic Sans Ms';
     border: 8px groove #888;
+    border-radius: 15px;
     outline: none;
     width: 800px;
     height: 20px;
